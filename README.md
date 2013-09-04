@@ -1,4 +1,4 @@
-finotoh
+<finoto.h>
 =======
 
-O que poder√° sair daqui?
+O que pode· sair daqui?
